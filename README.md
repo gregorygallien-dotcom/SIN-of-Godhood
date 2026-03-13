@@ -1,4 +1,4 @@
-for the betterment of humanity. 
+FOR THE BETTERMENT OF HUMANITY 
 
 <!DOCTYPE html>
 <html lang="en">
